@@ -1,0 +1,3644 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e048e1d5-e8ef-11f1-be7b-8c554a93d225",
+                    "deck_config_uuid": "e048e33d-e8ef-11f1-b398-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Acid-base equilibria",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e048ea16-e8ef-11f1-b9f6-8c554a93d225",
+                    "deck_config_uuid": "e048eb50-e8ef-11f1-9ef2-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Atomic structure and the Periodic Table",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Give the molecular formula and charges of these polyatomic ions:<br>- Ammonium<div>- Hydroxide</div><div>- Nitrate</div><div>- Carbonate</div>",
+                                "<font color=\"oklch(0.159066 0 none)\" face=\"-apple-system-body, ui-sans-serif, -apple-system, system-ui, Segoe UI, Helvetica, Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol\"><span style=\"font-size: 14px;\"><b>-&nbsp;</b></span></font><span style=\"font-weight: 600; color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\">NH₄⁺</span><br><div><span style=\"font-weight: 600; color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\">-&nbsp;</span><span style=\"color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; font-weight: 600;\">OH⁻</span></div><div><span style=\"color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; font-weight: 600;\">-&nbsp;</span><span style=\"color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; font-weight: 600;\">NO₃⁻</span></div><div><span style=\"color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; font-weight: 600;\">-&nbsp;</span><span style=\"color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; font-weight: 600;\">CO₃²⁻</span></div>"
+                            ],
+                            "guid": "E}N-mXnUrQ",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Give the molecular formula and charges of these polyatomic ions:<div>- Sulfate</div><div>- Hydrogencarbonate</div><div>- Phosphate</div>",
+                                "-&nbsp;<span style=\"font-weight: 600; color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\">SO₄²⁻</span><div><span style=\"font-weight: 600; color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\">-&nbsp;</span><span style=\"color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; font-weight: 600;\">HCO₃⁻</span></div><div><span style=\"color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; font-weight: 600;\">-&nbsp;</span><span style=\"color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; font-weight: 600;\">PO₄³⁻</span></div>"
+                            ],
+                            "guid": "FrX5}r{/9q",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is an orbital",
+                                "A region of space with a high probability of containing an electron"
+                            ],
+                            "guid": "vm{s:,Nt3$",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Electron shell structure",
+                                "Shell is divided into subshells which contain one or more orbitals"
+                            ],
+                            "guid": "cG)wDj_l9-",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the Pauli exclusion principle&nbsp;",
+                                "An orbital can contain a maximum of 2 electrons, which must have opposite spin states"
+                            ],
+                            "guid": "mupuO3]Nsz",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the order in which orbitals are filled with electrons",
+                                "In order of increasing energy with lower energy orbitals filled first: 1s,2s,2p,3s,3p,4s,3d,4p"
+                            ],
+                            "guid": "nUd@Nt{E9|",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the order in which electrons are lost when forming cations",
+                                "Electrons are removed from orbitals with the highest principle quantum number first"
+                            ],
+                            "guid": "k:hq*-T:9p",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How many orbitals are in s and p subshells and what are their shapes",
+                                "S - 1 spherical orbital<div>P - 3 dumbbell shaped orbitals</div>"
+                            ],
+                            "guid": "dcZ:)6_Z[T",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Give the molecular formula and charges of these polyatomic ions:<div>- perchlorate</div><div>- chlorate</div><div>- chlorite</div><div>- hypochlorite</div>",
+                                "<strong style=\"-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">- ClO₄⁻</strong><br><div><strong style=\"-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">-&nbsp;</strong><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">ClO₃⁻</strong></div><div><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">-&nbsp;</strong><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">ClO₂⁻</strong></div><div><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">-&nbsp;</strong><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">ClO⁻&nbsp;</strong></div>"
+                            ],
+                            "guid": "P0PL&s+U(l",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Give the molecular formula and charges of these polyatomic ions:<div>- bromate&nbsp;</div><div>- iodate&nbsp;</div><div>- chromate</div><div>- acetate</div>",
+                                "-&nbsp;<strong style=\"-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">BrO₃⁻</strong><div><font color=\"oklch(0.159066 0 none)\" face=\"-apple-system-body, ui-sans-serif, -apple-system, system-ui, Segoe UI, Helvetica, Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol\"><span style=\"caret-color: oklch(0.159066 0 none); font-size: 14px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: 100%;\"><b>-&nbsp;</b></span></font><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">IO₃⁻</strong></div><div><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">-&nbsp;</strong><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">CrO₄²⁻</strong></div><div><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">-&nbsp;</strong><strong style=\"text-align: var(--bs-body-text-align); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">CH₃COO⁻</strong></div><table style=\"-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); border-collapse: separate; border-spacing: 0px; inline-size: max-content; max-inline-size: none; margin: 0px; font-size: 0.875rem; line-height: 1.5rem; overflow: visible; min-inline-size: 100%; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; -webkit-text-size-adjust: 100%;\"><tbody><tr><td style=\"padding-inline: 0px; padding-block: 0.625rem; border-block-end: 1px solid var(--theme-border-subtle);\"><table style=\"text-align: var(--bs-body-text-align); border-collapse: separate; border-spacing: 0px; inline-size: max-content; max-inline-size: none; margin: 0px; font-size: 0.875rem; line-height: 1.5rem; overflow: visible; min-inline-size: 100%;\"><tbody><tr><td style=\"padding-inline: 0px; padding-block: 0.625rem; border-block-end: 1px solid var(--theme-border-subtle);\"><br></td></tr></tbody></table></td></tr></tbody></table>"
+                            ],
+                            "guid": "gQyJ<;H.Pr",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Give the molecular formula and charges of these polyatomic ions:<div>- cyanide&nbsp;</div><div>- hydrogen phosphate</div><div>- dihydrogen phosphate&nbsp;</div>",
+                                "-&nbsp;<strong style=\"-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">CN⁻</strong><div><strong style=\"-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; -webkit-text-size-adjust: 100%;\">-&nbsp;</strong><strong style=\"text-align: var(--bs-body-text-align); font-size: 16px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; -webkit-text-size-adjust: 100%;\">HPO₄²⁻</strong></div><div><strong style=\"text-align: var(--bs-body-text-align); font-size: 16px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; -webkit-text-size-adjust: 100%;\">-&nbsp;</strong><strong style=\"text-align: var(--bs-body-text-align); font-size: 16px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); font-weight: 600; caret-color: oklch(0.159066 0 none); color: oklch(0.159066 0 none); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; -webkit-text-size-adjust: 100%;\">H₂PO₄⁻</strong></div>"
+                            ],
+                            "guid": "m~(?*u~2E.",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is Hund's principle",
+                                "<span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; text-align: var(--bs-body-text-align);\">Orbitals of the same energy are occupied singly with electrons of parallel spin before pairing occurs.</span>"
+                            ],
+                            "guid": "nV`=wO>5d^",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When are the 4s subshells not fully filled before the 3d subshells and why",
+                                "For chromium and copper only, as 3d subshells are extra stable when they are half or fully filled so an electron is promoted from the 4s subshell to the 3d subshell"
+                            ],
+                            "guid": "q~xeu8WHN}",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Which elements are classified into s, p, or d blocks and what does it mean",
+                                "<div>The block shows which subshell contains the highest energy electron</div>s block: Group 1-2<div>p block: Group 13-18</div><div>d block: Group 3-12</div>"
+                            ],
+                            "guid": "vvafdC!%nC",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the number of orbitals in an s, p and d subshell",
+                                "s - 1<div>p - 3</div><div>d - 5</div>"
+                            ],
+                            "guid": "HvhC<3$REk",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How is shorthand notation written",
+                                "[Previous noble gas] followed by the remaining electron configuration"
+                            ],
+                            "guid": "wX4OpUb7+Y",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How do the periods correlate to the subshell number&nbsp;",
+                                "Period number = principle quantum number (s and p blocks)<div>Period number = principle quantum number +1 (d blocks)</div>"
+                            ],
+                            "guid": "EKX,a7:]ed",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define ionisation energy",
+                                "The energy needed to remove one mole of electrons from one mole of gaseous atoms or ions of an element&nbsp;"
+                            ],
+                            "guid": "I32XYX6.y%",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe and explain the general trend in the magnitude of successive ionisation energies (2)",
+                                "- Increases<div>- Removing the next electron away from an increasing positive charge ion</div>"
+                            ],
+                            "guid": "KDhf|K@m>k",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Explain how successive ionisation energies provide evidence for electron shells (3)",
+                                "- The sharp jump in the energy required to remove an electron<div>- indicates the electrostatic force of attraction between the valence electron and the nucleus has dramatically increased&nbsp;</div><div>- due to the electrons being in a shell closer to the nucleus</div>"
+                            ],
+                            "guid": "PuE%;!#$_Z",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3 factors that affect ionisation energy",
+                                "- Distance between the nucleus and the outermost shell<div>- Nuclear charge</div><div>- Electron shielding</div>"
+                            ],
+                            "guid": "dJkjXWppL;",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Trend in 1st ionisation energy of each element across a period (6)",
+                                "- there is a general increase across a period<div>- the valence electron across a period is being removed from the same energy level</div><div>- similar electron shielding between the nucleus and the outermost shell</div><div>- nuclear charge is increasing&nbsp;</div><div>- small decrease in atomic radius</div><div>- therefore a stronger electrostatic attraction between the outermost electron and nucleus</div>"
+                            ],
+                            "guid": "C)L8CYUmgj",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Trend in 1st ionisation energy of each element down a group (6)",
+                                "- there is a decrease in ionisation energy down a group<div>- valence electron is being removed from a higher energy level</div><div>- the valence electron is at an increased distance from the nucleus</div><div>- the electron shielding between the valence electron and the nucleus has increased</div><div>- the increase in atomic radius and electron shielding outweighs the increase in nuclear charge</div><div>- decrease in the electrostatic attraction between the valence electron and the nucleus</div>"
+                            ],
+                            "guid": "w?`52&,Hqg",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When does the trend in ionisation energy across a period deviate&nbsp;",
+                                "- Beryllium -&gt; Boron and Magnesium -&gt; Aluminium<div>- Nitrogen -&gt; Oxygen and Phosphorus -&gt; Sulfur</div>"
+                            ],
+                            "guid": "Bw:%XTR)py",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Explain the drop in IE from Be to B (2)",
+                                "- The valence electron in B is being removed from a 2p subshell as opposed to a 2s subshell<div>- The 2s subshell shields the 2p subshell</div>"
+                            ],
+                            "guid": "IN|$$.hTq8",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Explain the drop in IE from N to O (2)",
+                                "- Because in O spin pairing has occurred for the first time in the 3p subshell<br><div>- resulting in an increase in repulsion between electrons so the electron is lost more easily</div>"
+                            ],
+                            "guid": "Hy%4=iG})W",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "State how the relative abundance of two isotopes can be found [2]",
+                                "- compare the number of particles of each isotope detected<div>- in a mass spectrometer</div>"
+                            ],
+                            "guid": "gLJ=&1$mhS",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are the 5 stages of mass spectrometry",
+                                "- Vaporisation<div>- Ionisation</div><div>- Acceleration</div><div>- Deflection</div><div>- Detection</div>"
+                            ],
+                            "guid": "CdRd>e1yKl",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens during the ionisation stage of mass spectrometry",
+                                "The sample is bombarded with high energy electrons that knock one or more electrons off of each atom/molecule to form positive ions"
+                            ],
+                            "guid": "l!$*?t?I5v",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens during the acceleration stage of mass spectrometry",
+                                "A potential difference between two oppositely charged plates creates an electric field that accelerates the positive ions towards and through an opening in the negatively charged plate, giving them approximately the same kinetic energy."
+                            ],
+                            "guid": "M#x_pC-v|A",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens during the deflection stage of mass spectrometry",
+                                "A magnetic field created by magnets around the path of the ions exerts a force perpendicular to their direction of travel. Ions with a lower mass to charge ratio are deflected more, as lower mass ions are easier to change in direction, while ions with a higher charge experience a greater force from the magnetic field."
+                            ],
+                            "guid": "PMm%_xY7N-",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens during the detection stage of mass spectrometry",
+                                "Ions with the same mass to charge ratio follow the same path and are detected together electrically, with the size of the electric signal giving their relative abundance. A mass spectrum is produced, plotting relative abundance against mass to charge ratio."
+                            ],
+                            "guid": "c;}$_c6vvZ",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define relative atomic mass",
+                                "The weighted average mass of an atom of an element relative to 1/12th of the mass of an atom of the isotope carbon-12"
+                            ],
+                            "guid": "kgoi4O,=uv",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define relative isotopic mass",
+                                "The mass of one atom of an isotope relative to 1/12th of the mass of an atom of the isotope carbon-12"
+                            ],
+                            "guid": "k&a6(f754c",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define periodicity and give 3 examples",
+                                "A repeating pattern in a property across a period (ionisation energy, atomic radius, boiling point)"
+                            ],
+                            "guid": "F6LBYCyV%H",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define atomic/ionic radius",
+                                "The distance between the nucleus and outermost electron shell"
+                            ],
+                            "guid": "GJ$4:$CLkP",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define isoelectronic ions",
+                                "Ions of different elements with the same electron configuration"
+                            ],
+                            "guid": "tDs`LT-/m3",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe and explain the trend in atomic radius across a period [4]",
+                                "- Decreases<div>- There is an increase in nuclear charge</div><div>- There is similar electron shielding between the nucleus and outermost shell</div><div>- Electrostatic attraction between the nucleus and valence electron increases</div>"
+                            ],
+                            "guid": "ofXjxU!^QA",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe an explain the trend in atomic radius down a group [5]",
+                                "- Increases<div>- There is an additional electron shell</div><div>- so electron shielding between the nucleus and outermost shell increases</div><div>- This outweighs the increased nuclear charge</div><div>- so electrostatic attraction between the nucleus and valence electron decreases</div>"
+                            ],
+                            "guid": "FGh[&%?:N4",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe and explain trend in ionic radius for isoelectronic ions [4]",
+                                "- Decreases<div>- There is an increase in nuclear charge</div><div>- Electron shielding between the nucleus and outermost shell is the same</div><div>- Electrostatic attraction between nucleus and valence electron increases&nbsp;</div>"
+                            ],
+                            "guid": "GxeOh6Vlr*",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are the 3 stages of flame emission spectroscopy",
+                                "1. A sample of metal ions is placed into the flame<div>2. The electromagnetic radiation emitted by the sample is passed into a spectroscope</div><div>3. The spectroscope separates the electromagnetic radiation into its different wavelengths, producing a line spectrum</div>"
+                            ],
+                            "guid": "rz>3?t0Qxa",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe what happens in terms of electrons during flame emission spectroscopy",
+                                "Thermal energy from the flame is transferred to the electrons, exciting them and causing them to move to higher energy levels. The electrons then move to lower energy levels, releasing energy as photons of electromagnetic radiation."
+                            ],
+                            "guid": "PJx3hEU@8y",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How do atom emissions spectra provide evidence for the existence of quantum shells/energy levels",
+                                "When electrons move to lower energy levels, the electromagnetic radiation is emitted at specific discrete frequencies, producing a line spectrum rather than a continuous spectrum. This shows that only specific energy differences are possible, providing evidence that electrons must reside in discrete energy levels."
+                            ],
+                            "guid": "i%~>QmEl|7",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How to read an atom emission spectrum",
+                                "Each line corresponds to electromagnetic radiation emitted when an electron moves from a higher energy level to a lower energy level.&nbsp;<div>A smaller wavelength of radiation corresponds to a higher energy photon and the energy of the photon corresponds to the difference in energy between the two energy levels.</div>"
+                            ],
+                            "guid": "CoDbEI?chw",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Explain the trend in melting point across a period in metallic elements",
+                                "- Increases<div>- There is a decrease in ionic radius of the metal ion (due to an increase in nuclear charge and electron shielding being the same)</div><div>- There are a greater number of delocalised electrons&nbsp;</div><div>- The ion has a higher positive charge</div><div>- Greater electrostatic attraction between the positive metal ions and delocalised electrons</div><div>- More energy required to overcome the metallic bonding</div>"
+                            ],
+                            "guid": "ck4JRxdeHO",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Explain why Silicon has such a high melting point compared to the rest of period 3",
+                                "- It is a giant covalent structure<div>- with many strong covalent bonds</div><div>- which need a lot of energy to be broken</div>"
+                            ],
+                            "guid": "Br`Tz9!vW>",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "* A student suggested that the difference in the rates of reaction of strontium and barium\nwith water is due to the difference in the sum of their first and second ionisation energies.\nDiscuss this suggestion. [6]",
+                                "- The sum of the first two ionisation energies for barium is lower<div>- since barium has more shells of electrons and a larger atomic radius</div><div>- and more shielding</div><div>- These outweigh&nbsp;</div><div>- barium having a greater nuclear charge</div><div>- so barium loses its outer electrons more easily and reacts faster</div>"
+                            ],
+                            "guid": "c?Hwx{lYHv",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2 requirements for an element to be a transition metal",
+                                "- Must be a d-block element<div>- Must form at least one stable ion with an incomplete d-subshell</div>"
+                            ],
+                            "guid": "NDXEVoA_XC",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When is relative formula mass used and when is relative molecular mass used",
+                                "Formula mass: Giant structures<div>Molecular mass: Simple molecular structures</div>"
+                            ],
+                            "guid": "c!IXXE|?Dh",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e0495bbd-e8ef-11f1-8ff9-8c554a93d225",
+                    "deck_config_uuid": "e0495da4-e8ef-11f1-bf6a-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Bonding and structure",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are the 5 types of structures and the particles involved in them",
+                                "Monoatomic: Atoms<div>Simple molecular: Molecules</div><div>Giant covalent: Atoms</div><div>Giant ionic: Ions&nbsp;</div><div>Giant metallic: Ions and delocalised electrons</div>"
+                            ],
+                            "guid": "syLp`CgH~V",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Which substances are monoatomic",
+                                "Group 0"
+                            ],
+                            "guid": "es9RIJ`#<M",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Which substances are simple molecular",
+                                "Most non-metal elements and compounds apart from group 0"
+                            ],
+                            "guid": "r6Om8{O=_,",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Which 4 substances are giant covalent",
+                                "Diamond, graphite, silicon, silicon dioxide&nbsp;"
+                            ],
+                            "guid": "glbU-a@Tf$",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Which substances are giant ionic",
+                                "Most compounds made from metals and non-metals combined"
+                            ],
+                            "guid": "jASZ>t)SNd",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why are metals soft (3)",
+                                "- The atoms/ion are the same size<div>- so they are arranged in regular layers</div><div>- which can slide over each other easily</div>"
+                            ],
+                            "guid": "b)i$*mb1l%",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why are alloys hard (3)",
+                                "- The atoms/ions are different sizes<div>- so they are arranged in irregular layers</div><div>- which can not slide over each other easily</div>"
+                            ],
+                            "guid": "3+cM0?G}J",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why do metals have a high melting point (3)",
+                                "<div>- Metals have a giant lattice structure&nbsp;</div>- with strong electrostatic forces of attraction between the positive metal ions and negative delocalised valence electrons<div>- which require lots of energy to overcome</div>"
+                            ],
+                            "guid": "H%5NW_=]5e",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why do metals conduct electricity",
+                                "- Metals have delocalised valence electrons from the cations<div>- which are free to move around</div><div>- and carry charge throughout the structure</div>"
+                            ],
+                            "guid": "v._#U(_V+2",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why does Cl2 have a low melting point (3)",
+                                "<div>- It is a simple molecular structure</div>- with weak intermolecular forces of attraction between molecules<div>- which can be overcome with little energy</div>"
+                            ],
+                            "guid": "lJ[(0eA9[H",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why does diamond have a high melting point (4)",
+                                "- Diamond is a giant covalent structure<div><div>- where each carbon atom forms four covalent bonds with other carbon atoms</div><div>- There are many strong covalent bonds</div><div>- which need lots of energy to be broken</div></div>"
+                            ],
+                            "guid": "P0,<*g`P@Z",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why is diamond hard (3)",
+                                "- Diamond is a giant covalent structure<div>- where each carbon atom forms four strong covalent bonds with other carbon atoms</div><div>- creating a rigid lattice where atoms cannot slide past each other</div>"
+                            ],
+                            "guid": "JvG`PiTW$u",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why does NaCl have a high melting point (3)",
+                                "- NaCl is a giant ionic lattice structure<div>- made up of oppositely charged ions held together by strong electrostatic forces of attraction in all directions&nbsp;</div><div>- which require lots of energy to be overcome</div>"
+                            ],
+                            "guid": "b-dzcu^@{p",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why do ionic compounds conduct electricity as a solid but not a liquid",
+                                "As a solid the ions are fixed in position in the giant ionic lattice but as a liquid the ions are free to move around and carry charge."
+                            ],
+                            "guid": "LOyMdw<CRD",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is a dative covalent bond (co-ordinate bond)",
+                                "When both electrons in the shared pair come from the same atom"
+                            ],
+                            "guid": "nI[p<c>jvz",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is a lone pair of electrons",
+                                "A pair of electrons that are not involved in a covalent bond"
+                            ],
+                            "guid": "g.*?;/0xnw",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2 criteria for a dative covalent bond to form",
+                                "- There must be a lone pair on one of the atoms in the bonded pair<div>- There must be a vacant orbital on the other atom in the bonded pair</div>"
+                            ],
+                            "guid": "e]s612-S&+",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4 examples of dative covalent bonds",
+                                "- Carbon monoxide&nbsp;<div>- Ammonium</div><div>- Ammonia with boron trifluoride&nbsp;</div><div>- 2AlCl3</div>"
+                            ],
+                            "guid": "c3.RG`Aub<",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define electron deficient species and name 3 examples&nbsp;",
+                                "Species that do not have complete octets<div>- Aluminium</div><div>- Boron</div><div>- Beryllium&nbsp;</div>"
+                            ],
+                            "guid": "h7Bz#eAWYi",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are expanded octets",
+                                "When elements in period 3 and higher have more than 8 electrons in their valence shell"
+                            ],
+                            "guid": "B+OF,wwt@8",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Exam Q: Explain the shape of this molecule [4]",
+                                "- There are _ bonding pairs and _ lone pairs<div>- Electron pairs repel and try to position themselves as far apart as possible to minimise repulsion</div><div>- There are no lone pairs so electron pairs repel equally&nbsp;</div><div>&nbsp; or lone pair - bonding pair repulsion is greater than bonding pair - bonding pair repulsion</div><div>- Has a _ shape with a bond angle of&nbsp; _</div>"
+                            ],
+                            "guid": "z+TJY#f}kM",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Shape and bond angle when there are 2 bond pairs and 0 lone pairs",
+                                "Linear&nbsp;<div>180 degrees</div>"
+                            ],
+                            "guid": "6o.6>Q`<P",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Shape and bond angle when there are 3 bond pairs and 0 lone pairs",
+                                "Trigonal planar<div>120 degrees</div>"
+                            ],
+                            "guid": "Qypbf37yX3",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Shape and bond angle when there are 4 bond pairs and 0 lone pairs",
+                                "Tetrahedral<div>109.5 degrees</div>"
+                            ],
+                            "guid": "fI>l7#*]NY",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Shape and bond angle when there are 3 bond pairs and 1 lone pair",
+                                "Pyramidal<div>107 degrees</div>"
+                            ],
+                            "guid": "lSO/5Hy/?P",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Shape and bond angle when there are 2 bond pairs and 2 lone pairs",
+                                "Bent<div>104.5 degrees</div>"
+                            ],
+                            "guid": "o5uNc]l_JV",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Shape and bond angle when there are 5 bond pairs and 0 lone pairs",
+                                "Trigonal bipyramidal&nbsp;<div>90 and 120 degrees</div>"
+                            ],
+                            "guid": "s9;(&3dO[E",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Shape and bond angle when there are 6 bond pairs and 0 lone pairs",
+                                "Octahedral&nbsp;<div>90 degrees</div>"
+                            ],
+                            "guid": "B0[zvA]lee",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define electronegativity&nbsp;",
+                                "The ability of an atom to attract the bonding electrons in a covalent bond"
+                            ],
+                            "guid": "Q@>~PA9Cq,",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Factors affecting electronegativity",
+                                "- Nuclear charge<div>- Atomic radius</div><div>- Electron shielding</div>"
+                            ],
+                            "guid": "Mn@$CQ3rW",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe and explain the trend in electronegativity across a period [5]",
+                                "- Increases<div>- Increase in nuclear charge</div><div>- Electron shielding is similar</div><div>- Atomic radius decreases slightly</div><div>- Greater electrostatic attraction between the nucleus and shared pair of electrons</div>"
+                            ],
+                            "guid": "jKbs&.$wq8",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe and explain the trend in electronegativity down a group [5]",
+                                "- Decreases<div>- More shells so atomic radius increases</div><div>- Increase in electron shielding</div><div>- These outweigh the increase in nuclear charge</div><div>- Weaker electrostatic attraction between the nucleus and shared pair of electrons</div>"
+                            ],
+                            "guid": "I-Z>?zQ]tH",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4 most electronegative elements in decreasing order",
+                                "Fluorine, Oxygen, Nitrogen, Chlorine&nbsp;"
+                            ],
+                            "guid": "e_eg09.&YW",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a non polar covalent bond",
+                                "One in which there is an equal sharing of electrons between atoms that are bonded together due to there being little to no difference in electronegativity between the atoms bonded"
+                            ],
+                            "guid": "f%_&`E_7g]",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a polar covalent bond",
+                                "One in which there is an unequal sharing of electrons between atoms that are bonded together due to there being a large enough difference in electronegativity between the atoms bonded"
+                            ],
+                            "guid": "K`7bHT3^=n",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Explain how electronegativity difference correlates to the type of bond",
+                                "<div>0.0-0.5: Still effectively evenly shared so non polar covalent&nbsp;</div><div>0.5-1.7: Significantly closer to the more electronegative atom, giving both atoms partial charges, so polar covalent</div><div>1.7+: Counts as a full transfer of electrons, giving both atoms full charges, so ionic</div>"
+                            ],
+                            "guid": "Ki$h<UhSUi",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a dipole",
+                                "A representation of the separation of charge pointing from&nbsp;δ+ to&nbsp;δ-"
+                            ],
+                            "guid": "f?ragwE|qR",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a polar molecule&nbsp;",
+                                "A molecule with an uneven distribution of charge across the whole molecule and has at least one permanent dipole"
+                            ],
+                            "guid": "uM*R{)`3-`",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Explain why this molecule is polar [2]",
+                                "- Bond dipoles cancel out<div>- due to a symmetric _ shape</div>"
+                            ],
+                            "guid": "pScmwT)x>Z",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Explain why this shape is non-polar [2]",
+                                "- Bond dipoles do not cancel out<div>- due to an asymmetric _ shape</div>"
+                            ],
+                            "guid": "Fu3Fx$F,Q4",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Name 3 molecule shapes that are symmetrical",
+                                "- Linear<div>- Trigonal planar</div><div>- Tetrahedral (only when all the bonds are the same)</div>"
+                            ],
+                            "guid": "mB]BPTN3Q]",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Name 3 molecule shapes that are always asymmetrical",
+                                "- Bent<div>- Pyramidal</div><div>- Tetrahedral (when the bonds are not the same)</div>"
+                            ],
+                            "guid": "v-9Q_g0s>*",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Sign for partial charges",
+                                "Lower case del,&nbsp;δ+ and&nbsp;δ-"
+                            ],
+                            "guid": "lXKBO/=<j?",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049a818-e8ef-11f1-a620-8c554a93d225",
+                    "deck_config_uuid": "e049aa0b-e8ef-11f1-84c4-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Energetics I",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049b258-e8ef-11f1-bcea-8c554a93d225",
+                    "deck_config_uuid": "e049b3a6-e8ef-11f1-9ba0-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Energetics II",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049ba5b-e8ef-11f1-9446-8c554a93d225",
+                    "deck_config_uuid": "e049bb85-e8ef-11f1-b1f1-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Equilibrium I",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049c198-e8ef-11f1-a2b7-8c554a93d225",
+                    "deck_config_uuid": "e049c2b7-e8ef-11f1-856c-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Equilibrium II",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049c8b6-e8ef-11f1-ba13-8c554a93d225",
+                    "deck_config_uuid": "e049c9cd-e8ef-11f1-a7e9-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Formulae, equations and amounts of substance",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049cfc5-e8ef-11f1-bba5-8c554a93d225",
+                    "deck_config_uuid": "e049d0dc-e8ef-11f1-94dd-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Inorganic Chemistry and the Periodic Table",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049d690-e8ef-11f1-806b-8c554a93d225",
+                    "deck_config_uuid": "e049d7a0-e8ef-11f1-a4ec-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Redox I",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049dd4a-e8ef-11f1-94b0-8c554a93d225",
+                    "deck_config_uuid": "e049de53-e8ef-11f1-9dff-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Redox II",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049e414-e8ef-11f1-a6f0-8c554a93d225",
+                    "deck_config_uuid": "e049e518-e8ef-11f1-8697-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Transition metals",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                }
+            ],
+            "crowdanki_uuid": "e048d715-e8ef-11f1-859a-8c554a93d225",
+            "deck_config_uuid": "e048d90d-e8ef-11f1-90c9-8c554a93d225",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Inorganic",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049f38c-e8ef-11f1-972d-8c554a93d225",
+                    "deck_config_uuid": "e049f4a7-e8ef-11f1-8785-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Bonding and Structure",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e049fa9f-e8ef-11f1-a84c-8c554a93d225",
+                    "deck_config_uuid": "e049fbb4-e8ef-11f1-9f99-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Formulae, Equations and Amounts of Substance",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is an empirical formula",
+                                "The simplest whole number ratio of atoms in a compound"
+                            ],
+                            "guid": "d)ZCCk0FdT",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is a molecular formula",
+                                "The actual number of each type of atom in a molecule&nbsp;"
+                            ],
+                            "guid": "t|:P>+2m3K",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is percentage yield",
+                                "Actual yield as a percentage of the theoretical yield (use mol or mass)"
+                            ],
+                            "guid": "meIvkrElwf",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is atom economy",
+                                "The percentage of reactant atoms that end up as useful products (use mr)"
+                            ],
+                            "guid": "L/sjrM+1e{",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is a limitation of percentage yield",
+                                "It does not account for the amount of by-products produced"
+                            ],
+                            "guid": "ob;D)=u-Hm",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is green chemistry",
+                                "The sustainable design of chemical products and processes to minimise environmental impact and waste"
+                            ],
+                            "guid": "d[vubI;D.9",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3 principles of green chemistry",
+                                "- Prevent waste<div>- Improve atom economy of chemical processes</div><div>- Using less hazardous substances</div>"
+                            ],
+                            "guid": "d<D6^Q:;ub",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3 things that lead to %age yield being less than 100%",
+                                "- Reaction is incomplete<div>- Side reactions occur</div><div>- Product is lost during separation/purification</div>"
+                            ],
+                            "guid": "C:c7`$PpZN",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Who were the three scientists that contributed to the ideal gas equation and what did they investigate",
+                                "<p class=\"x1yc453h xma8rkl xgoqxah xutxfr x1fie51u xgyxj25 x1xobyvs x1elgs31 x1fv8qjw xcy5tzr x1ht4adc xnvauns x1c2l018 x14l7nz5 xuw7688 x1pjt2rx x160d6zm xrxpjvj\" dir=\"ltr\">Boyle: P ∝ 1/V, T and n constant</p>\n<p class=\"x1yc453h xma8rkl xgoqxah xutxfr x1fie51u xgyxj25 x1xobyvs x1elgs31 x1fv8qjw xcy5tzr x1ht4adc xnvauns x1c2l018 x14l7nz5 xuw7688 x1pjt2rx x160d6zm xrxpjvj\" dir=\"ltr\">Charles: V ∝ T, P and n constant</p>\n<p class=\"x1yc453h xma8rkl xgoqxah xutxfr x1fie51u xgyxj25 x1xobyvs x1elgs31 x1fv8qjw xcy5tzr x1ht4adc xnvauns x1c2l018 x14l7nz5 xuw7688 x1pjt2rx x160d6zm xrxpjvj\" dir=\"ltr\">Avogadro: V ∝ n, P and T constant</p>"
+                            ],
+                            "guid": "8db8qEg)?",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "State the ideal gas equation",
+                                "PV=nRT<div><br></div><div>P in Pa</div><div>V in m^3</div><div>n in moles</div><div>T in Kelvin</div>"
+                            ],
+                            "guid": "EmesKZ)ta4",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the value and unit of the ideal constant",
+                                "<span style=\"color: rgb(13, 13, 13); font-family: -apple-system-body, ui-sans-serif, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, &quot;sans-serif&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px;\">R = 8.31 J mol⁻¹ K⁻¹</span>"
+                            ],
+                            "guid": "qW-tOZ<o.L",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Equivalence point vs end point",
+                                "The equivalence point is the theoretical point at which the amount of one reactant has been added to completely react with the other reactant, whereas the end point is the observed point at which the indicator changes colour, which should be close to the equivalence point."
+                            ],
+                            "guid": "BL7h8hUdmh",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a standard solution",
+                                "A solution with an accurately known concentration"
+                            ],
+                            "guid": "NOaGGO#QTY",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a primary standard",
+                                "A chemical that can be weighed out accurately to make up a standard solution"
+                            ],
+                            "guid": "n5XdDh]K!v",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3 criteria for a primary standard",
+                                "- very pure<div>- doesn't gain or lose mass when in air</div><div>- has a relatively high molar mass so that weighing errors have less effect</div>"
+                            ],
+                            "guid": "Qv~w|LJopk",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Formula for quantitative distillation of a chemical",
+                                "Conc added x vol added = solution conc x solution vol"
+                            ],
+                            "guid": "Pnu=f*Z)&#",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How to prepare a standard solution from a primary standard (CP2) [6]",
+                                "<div><span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:\n&quot;MS Mincho&quot;;mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">- Transfer entire known sample to beaker</span></div><div><span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:\n&quot;MS Mincho&quot;;mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">- dissolve\nin deionised water by stirring with rod</span></div><div><span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:\n&quot;MS Mincho&quot;;mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">- transfer via filter funnel into volumetric\nflask</span></div><div><span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:\n&quot;MS Mincho&quot;;mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">- rinse beaker, rod and funnel washings with distilled water into flask for quantitative transfer</span></div><div><span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:\n&quot;MS Mincho&quot;;mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">- add distilled water with a pipette dropwise till the bottom of meniscus at eye level is on the mark</span></div><div><span lang=\"EN-US\" style=\"font-size:10.0pt;mso-bidi-font-size:\n11.0pt;line-height:115%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:\n&quot;MS Mincho&quot;;mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">- add stopper\nand invert repeatedly to mix contents thoroughly&nbsp;</span></div>"
+                            ],
+                            "guid": "p~8YZ6-I7d",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Colour change of methyl orange for a low to high ph",
+                                "Red to yellow"
+                            ],
+                            "guid": "jc3yb4w?Lg",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Colour change for methyl red from low to high ph",
+                                "Red to yellow"
+                            ],
+                            "guid": "N8oIy7a`%!",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Colour change of bromothymol blue from low to high ph",
+                                "Yellow to blue"
+                            ],
+                            "guid": "g{4j]w?d?)",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Colour change of phenolpthalein from low to high ph",
+                                "Colourless to pink"
+                            ],
+                            "guid": "BhbHd[jM!Y",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5 compounds that are always soluble",
+                                "Group 1 salts<div>Ammonium salts</div><div>Nitrates</div><div>First 3 halides (chloride, bromide, iodide) apart from silver and lead</div><div>Sulfates apart from lead and barium</div>"
+                            ],
+                            "guid": "C|r}x4<E=i",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2 compounds that are always insoluble&nbsp;",
+                                "Carbonates apart from group 1 and ammonium<div>Hydroxides apart from group 1 and lower down group 2</div>"
+                            ],
+                            "guid": "MfTZRD[(65",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define molar volume of a gas",
+                                "The volume occupied by one mole of a gas at a specified temperature and pressure"
+                            ],
+                            "guid": "q1#P}$>(Xq",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How to carry out a titration (CP3) [6]",
+                                "- Measure 50cm3 of sulfuric acid in a beaker and fill burette with the solution using a funnel&nbsp;<div>- Measure 25cm3 of standard sodium carbonate solution using a pipette and add to a conical flask that has been rinsed with distilled water</div><div>- Add 2-3 drops of methyl orange and place the flask on a white tile beneath the burette</div><div>- Read the position of the meniscus in the burette and record the initial reading to the nearest 0.05cm3</div><div>- Add the acid to the carbonate dropwise until the indicator turns salmon-pink</div><div>- Record the final burette reading and calculate the volume of acid used</div><div>- Repeat until at least two concordant results are obtained</div>"
+                            ],
+                            "guid": "e1s4x7NyA2",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How to find the volume of one mole of hydrogen gas (CP1) [6]",
+                                "<ol role=\"list\" data-d-component=\"list\" data-d-marker=\"number\" data-d-marker-layout=\"native\" class=\"x78zum5 xdt5ytf xeuugli x1717udv x1ghz6dp x11v4sto x10of0ok xe8uvvx xy09zc5 x1ovvlb x1kw3rcc x104jwf5 x1lziwak x15472z4 x43c9pm xld8u84 x3yw8vx\" style=\"list-style: outside decimal; margin: 8px 0px 0px; padding: 0px; gap: 0px; display: flex; flex-direction: column; margin-inline-start: 0px; color: rgb(13, 13, 13); counter-reset: d-list-item 0; padding-inline-start: 2rem; min-width: 0px; --d-auto-block-spacing: calc(.25rem * 2); --d-auto-inline-spacing: 0px; --d-list-row-gap: calc(.25rem * 0); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; white-space: pre-line; background-color: rgb(252, 252, 252);\"><li data-d-component=\"list-item\" data-d-marker-layout=\"native\" class=\"x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5\" style=\"gap: 8px; align-items: flex-start; margin-inline-start: 0px; counter-increment: d-list-item 1; margin-top: 0px; min-width: 0px; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --d-list-clearance: 2px; --d-list-lane: 24px; --d-list-marker-size: 24px; --d-list-offset: 0px; --d-list-slot: 26px;\"><div class=\"x78zum5 xdt5ytf x12lumcd xeuugli\" style=\"flex: 1 1 auto; display: flex; flex-direction: column; min-width: 0px;\"><p data-d-component=\"text\" class=\"x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd\" style=\"overflow-wrap: break-word; text-wrap: pretty; border: 0px; margin: 0px; padding: 0px; font-size: inherit; font-weight: inherit; letter-spacing: inherit; line-height: inherit; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --x-color: light-dark(rgba(13, 13, 13, 1), rgba(255, 255, 255, 1));\"><span data-d-streaming-word=\"\">Clean</span> <span data-d-streaming-word=\"\">a</span> <span data-d-streaming-word=\"\">small</span> <span data-d-streaming-word=\"\">strip</span> <span data-d-streaming-word=\"\">of</span> <span data-d-streaming-word=\"\">magnesium</span> <span data-d-streaming-word=\"\">to</span> <span data-d-streaming-word=\"\">remove</span> <span data-d-streaming-word=\"\">any</span> <span data-d-streaming-word=\"\">oxide</span> <span data-d-streaming-word=\"\">layer.</span></p></div></li><li data-d-component=\"list-item\" data-d-marker-layout=\"native\" class=\"x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5\" style=\"gap: 8px; align-items: flex-start; margin-inline-start: 0px; counter-increment: d-list-item 1; margin-top: 0px; min-width: 0px; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --d-list-clearance: 2px; --d-list-lane: 24px; --d-list-marker-size: 24px; --d-list-offset: 0px; --d-list-slot: 26px;\"><div class=\"x78zum5 xdt5ytf x12lumcd xeuugli\" style=\"flex: 1 1 auto; display: flex; flex-direction: column; min-width: 0px;\"><p data-d-component=\"text\" class=\"x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd\" style=\"overflow-wrap: break-word; text-wrap: pretty; border: 0px; margin: 0px; padding: 0px; font-size: inherit; font-weight: inherit; letter-spacing: inherit; line-height: inherit; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --x-color: light-dark(rgba(13, 13, 13, 1), rgba(255, 255, 255, 1));\"><span data-d-streaming-word=\"\">Accurately</span> <span data-d-streaming-word=\"\">measure</span> <span data-d-streaming-word=\"\">and</span> <span data-d-streaming-word=\"\">record</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">mass</span> <span data-d-streaming-word=\"\">of</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">magnesium</span> <span data-d-streaming-word=\"\">using</span> <span data-d-streaming-word=\"\">a</span> <span data-d-streaming-word=\"\">balance</span> <span data-d-streaming-word=\"\">(mass</span> <span data-d-streaming-word=\"\">should</span> <span data-d-streaming-word=\"\">be</span> <span data-d-streaming-word=\"\">no</span> <span data-d-streaming-word=\"\">greater</span> <span data-d-streaming-word=\"\">than</span> <span data-d-streaming-word=\"\">0.050</span> <span data-d-streaming-word=\"\">g).</span></p></div></li><li data-d-component=\"list-item\" data-d-marker-layout=\"native\" class=\"x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5\" style=\"gap: 8px; align-items: flex-start; margin-inline-start: 0px; counter-increment: d-list-item 1; margin-top: 0px; min-width: 0px; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --d-list-clearance: 2px; --d-list-lane: 24px; --d-list-marker-size: 24px; --d-list-offset: 0px; --d-list-slot: 26px;\"><div class=\"x78zum5 xdt5ytf x12lumcd xeuugli\" style=\"flex: 1 1 auto; display: flex; flex-direction: column; min-width: 0px;\"><p data-d-component=\"text\" class=\"x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd\" style=\"overflow-wrap: break-word; text-wrap: pretty; border: 0px; margin: 0px; padding: 0px; font-size: inherit; font-weight: inherit; letter-spacing: inherit; line-height: inherit; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --x-color: light-dark(rgba(13, 13, 13, 1), rgba(255, 255, 255, 1));\"><span data-d-streaming-word=\"\">Add</span> <span data-d-streaming-word=\"\">25.0</span> <span data-d-streaming-word=\"\">cm³</span> <span data-d-streaming-word=\"\">of</span> <span data-d-streaming-word=\"\">1.0</span> <span data-d-streaming-word=\"\">mol</span> <span data-d-streaming-word=\"\">dm⁻³</span> <span data-d-streaming-word=\"\">hydrochloric</span> <span data-d-streaming-word=\"\">acid</span> <span data-d-streaming-word=\"\">to</span> <span data-d-streaming-word=\"\">a</span> <span data-d-streaming-word=\"\">conical</span> <span data-d-streaming-word=\"\">flask.</span></p></div></li><li data-d-component=\"list-item\" data-d-marker-layout=\"native\" class=\"x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5\" style=\"gap: 8px; align-items: flex-start; margin-inline-start: 0px; counter-increment: d-list-item 1; margin-top: 0px; min-width: 0px; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --d-list-clearance: 2px; --d-list-lane: 24px; --d-list-marker-size: 24px; --d-list-offset: 0px; --d-list-slot: 26px;\"><div class=\"x78zum5 xdt5ytf x12lumcd xeuugli\" style=\"flex: 1 1 auto; display: flex; flex-direction: column; min-width: 0px;\"><p data-d-component=\"text\" class=\"x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd\" style=\"overflow-wrap: break-word; text-wrap: pretty; border: 0px; margin: 0px; padding: 0px; font-size: inherit; font-weight: inherit; letter-spacing: inherit; line-height: inherit; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --x-color: light-dark(rgba(13, 13, 13, 1), rgba(255, 255, 255, 1));\"><span data-d-streaming-word=\"\">Add</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">magnesium</span> <span data-d-streaming-word=\"\">to</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">acid</span> <span data-d-streaming-word=\"\">and</span> <span data-d-streaming-word=\"\">immediately</span> <span data-d-streaming-word=\"\">seal</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">flask</span> <span data-d-streaming-word=\"\">with</span> <span data-d-streaming-word=\"\">a</span> <span data-d-streaming-word=\"\">bung</span> <span data-d-streaming-word=\"\">connected</span> <span data-d-streaming-word=\"\">to</span> <span data-d-streaming-word=\"\">a</span> <span data-d-streaming-word=\"\">gas</span> <span data-d-streaming-word=\"\">syringe.</span></p></div></li><li data-d-component=\"list-item\" data-d-marker-layout=\"native\" class=\"x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5\" style=\"gap: 8px; align-items: flex-start; margin-inline-start: 0px; counter-increment: d-list-item 1; margin-top: 0px; min-width: 0px; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --d-list-clearance: 2px; --d-list-lane: 24px; --d-list-marker-size: 24px; --d-list-offset: 0px; --d-list-slot: 26px;\"><div class=\"x78zum5 xdt5ytf x12lumcd xeuugli\" style=\"flex: 1 1 auto; display: flex; flex-direction: column; min-width: 0px;\"><p data-d-component=\"text\" class=\"x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd\" style=\"overflow-wrap: break-word; text-wrap: pretty; border: 0px; margin: 0px; padding: 0px; font-size: inherit; font-weight: inherit; letter-spacing: inherit; line-height: inherit; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --x-color: light-dark(rgba(13, 13, 13, 1), rgba(255, 255, 255, 1));\"><span data-d-streaming-word=\"\">Collect</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">hydrogen</span> <span data-d-streaming-word=\"\">gas</span> <span data-d-streaming-word=\"\">produced</span> <span data-d-streaming-word=\"\">in</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">gas</span> <span data-d-streaming-word=\"\">syringe</span> <span data-d-streaming-word=\"\">until</span> <span data-d-streaming-word=\"\">all</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">magnesium</span> <span data-d-streaming-word=\"\">has</span> <span data-d-streaming-word=\"\">reacted.</span> <span data-d-streaming-word=\"\">The</span> <span data-d-streaming-word=\"\">hydrochloric</span> <span data-d-streaming-word=\"\">acid</span> <span data-d-streaming-word=\"\">is</span> <span data-d-streaming-word=\"\">in</span> <span data-d-streaming-word=\"\">excess</span> <span data-d-streaming-word=\"\">to</span> <span data-d-streaming-word=\"\">ensure</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">magnesium</span> <span data-d-streaming-word=\"\">is</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">limiting</span> <span data-d-streaming-word=\"\">reactant.</span></p></div></li><li data-d-component=\"list-item\" data-d-marker-layout=\"native\" class=\"x1cy8zhl xeuugli x167g77z x1et0kgd x3olw3b x77z7ai x1sjuu80 xgqnvjb xdj266r x15eiy0f x1lziwak x15472z4 xtcx8v3 xzngokm x2qjak5\" style=\"gap: 8px; align-items: flex-start; margin-inline-start: 0px; counter-increment: d-list-item 1; margin-top: 0px; min-width: 0px; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --d-list-clearance: 2px; --d-list-lane: 24px; --d-list-marker-size: 24px; --d-list-offset: 0px; --d-list-slot: 26px;\"><div class=\"x78zum5 xdt5ytf x12lumcd xeuugli\" style=\"flex: 1 1 auto; display: flex; flex-direction: column; min-width: 0px;\"><p data-d-component=\"text\" class=\"x1ghz6dp x1717udv x1wty727 x1pd3egz x4gjf66 x15eiy0f x1lziwak x15472z4 x1qlqyl8 x15bjb6t x1lliihq x14rh7hd xg07evd\" style=\"overflow-wrap: break-word; text-wrap: pretty; border: 0px; margin: 0px; padding: 0px; font-size: inherit; font-weight: inherit; letter-spacing: inherit; line-height: inherit; --d-auto-block-spacing: 0px; --d-auto-inline-spacing: 0px; --x-color: light-dark(rgba(13, 13, 13, 1), rgba(255, 255, 255, 1));\"><span data-d-streaming-word=\"\">Record</span> <span data-d-streaming-word=\"\">the</span> <span data-d-streaming-word=\"\">volume</span> <span data-d-streaming-word=\"\">of</span> <span data-d-streaming-word=\"\">hydrogen</span> <span data-d-streaming-word=\"\">gas</span> <span data-d-streaming-word=\"\">produced.</span></p></div></li></ol>"
+                            ],
+                            "guid": "gJ;S}%u$}*",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e04a2486-e8ef-11f1-955d-8c554a93d225",
+                    "deck_config_uuid": "e04a25be-e8ef-11f1-850b-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Kinetics I",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e04a2bdf-e8ef-11f1-895d-8c554a93d225",
+                    "deck_config_uuid": "e04a2cf9-e8ef-11f1-a5b1-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Kinetics II",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e04a32ab-e8ef-11f1-a3c0-8c554a93d225",
+                    "deck_config_uuid": "e04a33bf-e8ef-11f1-8865-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Modern Analytical Techniques I",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e04a395c-e8ef-11f1-8443-8c554a93d225",
+                    "deck_config_uuid": "e04a3a66-e8ef-11f1-b003-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Modern Analytical Techniques II",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e04a4091-e8ef-11f1-9f8f-8c554a93d225",
+                    "deck_config_uuid": "e04a41ad-e8ef-11f1-9d4c-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Organic Chemistry I",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a hydrocarbon",
+                                "A compound of hydrogen and carbon only"
+                            ],
+                            "guid": "QY?-{OS!0s",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are the 5 types of formulae and what do they show",
+                                "Empirical - simplest whole number ratio of atoms of elements in a compound<div>Molecular - number of atoms of each element in a molecule of a compound</div><div>Structural - shows how atoms are arranged in a molecule of a compound</div><div>Displayed - shows all the atoms and covalent bonds present in a molecule of a compound</div><div>Skeletal - represents a C-C bond as one line and only functional groups are written out</div>"
+                            ],
+                            "guid": "CTJIA3p,xp",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "List the functional groups from highest priority to lowest with their suffixes/prefixes&nbsp;",
+                                "- Carboxylic acid (-COOH): -oic acid<div>- Ester (-COO-): -oate</div><div>- Aldehyde (-CHO): -al</div><div>- Ketone (C=O): -one</div><div>- Alcohol (-OH): -ol</div><div>- Amine (-NH2): -amine</div><div>- Alkene (C=C): -ene</div><div>- Alkane (C-C): -ane</div><div>- Halogen: fluoro-</div><div>- Alkyl (CH3): methyl-&nbsp;</div>"
+                            ],
+                            "guid": "ixOTIwkJDA",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are the three hydrocarbon homologous series",
+                                "Alkane (CnH2n+2)<div>Alkene (CnH2n)</div><div>Cycloalkane (CnH2n)</div>"
+                            ],
+                            "guid": "O3b].2W9y-",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a functional group",
+                                "A small group of atoms or a single halogen atom that gives a compound its characteristic chemical properties and reactions"
+                            ],
+                            "guid": "M#fH7dxyz|",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a homologous series",
+                                "A series of organic compounds that have the same functional group, with each successive member differing by CH2"
+                            ],
+                            "guid": "EA2[P{uw1A",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How to name organic compounds",
+                                "1. Find the stem which is based on the longest continuous carbon chain<div>2. Find the suffix which shows the highest priority functional group</div><div>3. Find the prefix which shows the type and number groups of lower priority than the homologous hydrocarbon series</div><div>4. Use numbers to show the position of the groups, choosing the direction that gives the highest priority functional group the lowest number, and the lowest possible set of numbers for the remaining groups</div>"
+                            ],
+                            "guid": "k?==Z:-t1t",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are the 7 types of organic reactions",
+                                "Addition<div>Elimination</div><div>Substitution</div><div>Oxidation</div><div>Reduction</div><div>Hydrolysis</div><div>Polymerisation</div>"
+                            ],
+                            "guid": "xHvb(q(3&1",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens in an addition reaction",
+                                "Joining 2 or more unsaturated molecules to produce a saturated molecule"
+                            ],
+                            "guid": "J(pW;+g7OK",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens in an elimination reaction",
+                                "A molecule is lost from a saturated molecule to form an unsaturated molecule"
+                            ],
+                            "guid": "u0D6Bu3Wz!",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens in a substitution reaction",
+                                "An atom/group replaces another atom/group"
+                            ],
+                            "guid": "z{,vN,bL+n",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens in oxidation and reduction reactions",
+                                "Oxidation: a species loses electrons<br>Reduction: a species gains electrons"
+                            ],
+                            "guid": "dDOo`dD;xI",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens in a hydrolysis reaction",
+                                "Bonds break due to a reaction involving water"
+                            ],
+                            "guid": "Mz>*HZtaVb",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens in a polymerisation reaction",
+                                "Lots of simple molecules are joined together to form a giant molecule"
+                            ],
+                            "guid": "Mgk,5b[nkX",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a species",
+                                "An atom, ion, radical or molecule"
+                            ],
+                            "guid": "o/}Ye%X)IV",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How and why does boiling point change as hydrocarbons get longer",
+                                "Longer chains have a higher boiling point due to there being more electrons which means stronger Van der Waal's forces between molecules, which needs more energy to be overcome"
+                            ],
+                            "guid": "T|I1,!A4g",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a free radical",
+                                "A species containing an unpaired electron (only one electron in the orbital)"
+                            ],
+                            "guid": "q}Td#&<Jm-",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2 types of fission",
+                                "Homolytic: both atoms take one electron from the bonded pair forming two radicals<div>Heterolytic: one atom takes both electrons from the bonded pair forming a cation and an anion which gains a lone pair</div>"
+                            ],
+                            "guid": "l4k/+N6[%r",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Define a nucleophile",
+                                "A species that donates a lone pair of electrons to another species&nbsp;"
+                            ],
+                            "guid": "AWr?H<`gYM",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Reaction vs mechanism",
+                                "A reaction is an equation showing the reactants and products whilst a mechanism shows how a reaction occurs step by step, using curly arrows to show the movement of electrons. Different mechanisms can result in the same reaction.&nbsp;"
+                            ],
+                            "guid": "gYjCx$%UP9",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Name the 3 stages of free radical substitution",
+                                "- Initiation<div>- Propagation</div><div>- Termination</div>"
+                            ],
+                            "guid": "QuCqIv8@t[",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe the initiation stage of free radical substitution&nbsp;",
+                                "Sunlight or UV rays provide energy for homolytic fission to break a covalent bond, producing two free radicals"
+                            ],
+                            "guid": "xPq@XD*rKi",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe the propagation stage of free radical substitution",
+                                "A free radical produced by initiation reacts with a non-radical molecule, taking an atom from it to make itself non radical and turning the molecule into a new free radical. This new free radical reacts with more non-radical molecules in a chain reaction until termination."
+                            ],
+                            "guid": "H9{$nd3w.v",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Describe the termination stage of free radical substitution&nbsp;",
+                                "Two free radicals react together forming a covalent bond and producing a non-radical molecule"
+                            ],
+                            "guid": "H}|{24F3(z",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How are free radicals formed",
+                                "Through homolytic fission, where a covalent bond breaks and each atom takes one electron from the bonding pair, resulting in two species containing an unpaired electron, forming two free radicals<br>"
+                            ],
+                            "guid": "k?]cZ.lRp9",
+                            "note_model_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e04a6866-e8ef-11f1-b2bb-8c554a93d225",
+                    "deck_config_uuid": "e04a699f-e8ef-11f1-bbfd-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Organic Chemistry II",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e04a701c-e8ef-11f1-8518-8c554a93d225",
+                    "deck_config_uuid": "e04a71b8-e8ef-11f1-a353-8c554a93d225",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Redox I",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                }
+            ],
+            "crowdanki_uuid": "e049eaef-e8ef-11f1-bd83-8c554a93d225",
+            "deck_config_uuid": "e049ec07-e8ef-11f1-b74d-8c554a93d225",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Organic",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "e048b03a-e8ef-11f1-a17b-8c554a93d225",
+    "deck_config_uuid": "e048c487-e8ef-11f1-bb1b-8c554a93d225",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e048c487-e8ef-11f1-bb1b-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e048d90d-e8ef-11f1-90c9-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e048e33d-e8ef-11f1-b398-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e048eb50-e8ef-11f1-9ef2-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e0495da4-e8ef-11f1-bf6a-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049aa0b-e8ef-11f1-84c4-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049b3a6-e8ef-11f1-9ba0-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049bb85-e8ef-11f1-b1f1-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049c2b7-e8ef-11f1-856c-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049c9cd-e8ef-11f1-a7e9-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049d0dc-e8ef-11f1-94dd-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049d7a0-e8ef-11f1-a4ec-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049de53-e8ef-11f1-9dff-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049e518-e8ef-11f1-8697-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049ec07-e8ef-11f1-b74d-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049f4a7-e8ef-11f1-8785-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e049fbb4-e8ef-11f1-9f99-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e04a25be-e8ef-11f1-850b-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e04a2cf9-e8ef-11f1-a5b1-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e04a33bf-e8ef-11f1-8865-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e04a3a66-e8ef-11f1-b003-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e04a41ad-e8ef-11f1-9d4c-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e04a699f-e8ef-11f1-bbfd-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "e04a71b8-e8ef-11f1-a353-8c554a93d225",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "desiredRetention": null,
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Chemistry",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e0490fdb-e8ef-11f1-8bd9-8c554a93d225",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    line-height: 1.5;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 2909602921977311598,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6904266823715944982,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 6063481540758114371,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
